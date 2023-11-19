@@ -1,0 +1,15 @@
+.container{
+    box-sizing: border-box;
+    width: 700px;
+    margin:50px auto;
+    border: solid 2px salmon;
+    padding: 20px;
+}
+
+h1,ul,p,li,button,a{
+    border: solid 2px salmon;
+    padding: 10px;
+}
+
+
+
